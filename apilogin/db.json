@@ -1,0 +1,28 @@
+{
+    "usuarios":[
+        {
+            "id":1,
+            "apellido":"cunalema",
+            "nombre":"alison",
+            "user":"acunalema",
+            "pass":"12345",
+            "rol":"admin"
+        },
+        {
+            "id":1,
+            "apellido":"cunalema",
+            "nombre":"fernanda",
+            "user":"fcunalema",
+            "pass":"123456",
+            "rol":"externo"
+        }
+    ],
+    "data": [
+        { "id": 1,  "cedula": "23456789", "nombre": "Naruto" ,"apellido":"cunalema","correo":"cunalema@gmail.com","direccion":"dkkd","fechanac":"23-04-1997","telefono":"0981744633"},
+        { "id": 2,  "cedula": "23456789", "nombre": "Dragon Ball","apellido":"cunalema","correo":"cunalema@gmail.com","direccion":"dkkd","fechanac":"23-04-1997","telefono":"0981744633" },
+        { "id": 3,  "cedula": "23456789", "nombre": "Rurouni Kenshin" ,"apellido":"cunalema","correo":"cunalema@gmail.com","direccion":"dkkd","fechanac":"23-04-1997","telefono":"0981744633"},
+        { "id": 4,  "cedula": "23456789", "nombre": "One Piece","apellido":"cunalema","correo":"cunalema@gmail.com","direccion":"dkkd","fechanac":"23-04-1997","telefono":"0981744633" },
+        { "id": 5,  "cedula": "23456789", "nombre": "Fullmetal Alchemist: Brotherhood","apellido":"cunalema","correo":"cunalema@gmail.com","direccion":"dkkd","fechanac":"23-04-1997","telefono":"0981744633"},
+        { "id": 6,  "cedula": "23456789", "nombre": "Yu-Gi-Oh!","apellido":"cunalema","correo":"cunalema@gmail.com","direccion":"dkkd","fechanac":"23-04-1997","telefono":"0981744633" }
+      ]
+}
